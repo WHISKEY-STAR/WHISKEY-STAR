@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on any and all I cam
 - 📫 How to reach me is thru the site
-- 😄 Pronouns: The She It,  He,Him,Sir
+- 😄 Pronouns: He,Him,Sir
 - ⚡ Fun fact: ... Ive been in the automotive repair field for 30yrs
 
 <!---
