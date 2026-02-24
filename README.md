@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WHISKEY-STAR
-- 👀 I’m interested in learning the digital world
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on any and all I cam
+- 👀 I’m interested in attempting to learn the digital world
+- 🌱 I’m currently hopeless and not learning java and python
+- 💞️ I’m looking to collaborate on any and all I can
 - 📫 How to reach me is thru the site
 - 😄 Pronouns: He,Him,Sir
 - ⚡ Fun fact: ... Ive been in the automotive repair field for 30yrs
